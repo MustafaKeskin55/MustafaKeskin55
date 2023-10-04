@@ -11,8 +11,8 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@mustafa-kes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@mustafa-kes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mustafa-keskin-undefined-55b321251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mustafa-keskin-undefined-55b321251/" height="30" width="40" /></a>
+<a href="[https://codepen.io/@mustafa-kes](https://codepen.io/Mustafa-kes)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@mustafa-kes" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mustafakeskin5522967/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mustafa-keskin-undefined-55b321251/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/mustafa.keskin.2205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mustafa.keskin.2205" height="30" width="40" /></a>
   <a href="https://instagram.com/mustafax.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustafax.x" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@hasbimedya5389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hasbimedya5389" height="30" width="40" /></a>
