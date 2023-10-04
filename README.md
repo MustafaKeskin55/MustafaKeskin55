@@ -4,7 +4,7 @@
 <img  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="1000" width="1000"></div> 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafakeskin55&label=Profile%20views&color=0e75b6&style=flat-square" alt="mustafakeskin55" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
